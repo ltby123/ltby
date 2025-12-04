@@ -13,22 +13,22 @@
     - title: github
       url: https://github.com/
       description: 存储共享并编写代码的云平台。
-    - title:TikTok
+    - title: TikTok
       logo: 
       url: https://www.tiktok.com/foryou?lang=zh-Hans
-      description: 视频网站
+      description: 视频网站。
     - title:instagram
       logo: 
       url:https://www.instagram.com/ 
-      description:交友平台 
+      description: 交友平台。 
     - title:telegram
       logo: 
       url: https://web.telegram.org/k/
-      description: 跨平台的即时通讯软件
-    - title:老王导航
+      description:跨平台的即时通讯软件。
+    - title: 老王导航
       logo: 
       url: https://nav.eooce.com/
-      description:个人专属导航 
+      description: 个人专属导航。 
     - title: Pinterest
       logo:
       url: https://www.pinterest.com/
@@ -37,15 +37,15 @@
       logo: 
       url: https://huaban.com/
       description: 收集灵感,保存有用的素材
-    - title:chatgpt
+    - title: chatgpt
       logo: 
       url: https://chatgpt.com/
       description: 全球最大的AI平台。
     - title: openAI
       logo: 
-      url: https://openai.com/zh-Hans-CN/
+      url: https://openai.com/
       description: AI平台。
-    - title:Grok
+    - title: Grok
       logo: 
       url: https://grok.com/
       description: 马斯克创建的AI平台   
