@@ -15,20 +15,20 @@
       description: 存储共享并编写代码的云平台。
     - title:TikTok
       logo: 
-      url: https://www.tiktok.com/
-      description: 视频网站。
+      url: https://www.tiktok.com/foryou?lang=zh-Hans
+      description: 视频网站
     - title:instagram
       logo: 
       url:https://www.instagram.com/ 
       description:交友平台 
     - title:telegram
       logo: 
-      url: https://web.telegram.org/
-      description: 跨平台的即时通讯软件。
-    - title:老王导航。
+      url: https://web.telegram.org/k/
+      description: 跨平台的即时通讯软件
+    - title:老王导航
       logo: 
       url: https://nav.eooce.com/
-      description:个人专属导航。
+      description:个人专属导航 
     - title: Pinterest
       logo:
       url: https://www.pinterest.com/
@@ -43,7 +43,7 @@
       description: 全球最大的AI平台。
     - title: openAI
       logo: 
-      url: https://openai.com/
+      url: https://openai.com/zh-Hans-CN/
       description: AI平台。
     - title:Grok
       logo: 
@@ -56,12 +56,17 @@
       qrcode: images/qrcodes/cli.png
       logo: 
       url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击。
-    
+      description: 二维码演示，手机扫一扫，也可以点击    
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
+    - title: 站酷
+      url: https://www.zcool.com.cn/
+      description: 中国人气设计师互动平台
+    - title: Medium
+      url: https://medium.com/
+      description: 高质量设计文章
     - title: 雷锋网
       logo: images/logos/leiphone.png
       url: https://www.leiphone.com/
