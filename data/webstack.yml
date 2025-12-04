@@ -6,21 +6,29 @@
     - title: youtube
       logo: 
       url: https://www.youtube.com/
-      description: 全球视频平台。
+      description: 全球最大的学习分享平台。
     - title: cloudflare
       url: https://dash.cloudflare.com/login
       description: 全球性云平台，提供网络服务。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
     - title: github
       url: https://github.com/
       description: 存储共享并编写代码的云平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
+    - title:TikTok
+      logo: 
+      url: https://www.tiktok.com/foryou?lang=zh-Hans
+      description: 视频网站
+    - title:instagram
+      logo: 
+      url:https://www.instagram.com/ 
+      description:交友平台 
+    - title:telegram
+      logo: 
+      url: https://web.telegram.org/k/
+      description: 跨平台的即时通讯软件
+    - title:老王导航
+      logo: 
+      url: https://nav.eooce.com/
+      description:个人专属导航 
     - title: Pinterest
       logo:
       url: https://www.pinterest.com/
@@ -29,22 +37,26 @@
       logo: 
       url: https://huaban.com/
       description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
+    - title:chatgpt
+      logo: 
+      url: https://chatgpt.com/
+      description: 全球最大的AI平台。
+    - title: openAI
+      logo: 
+      url: https://openai.com/zh-Hans-CN/
+      description: AI平台。
+    - title:Grok
+      logo: 
+      url: https://grok.com/
+      description: 马斯克创建的AI平台   
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
+    - title: 二维码演示
+      qrcode: images/qrcodes/cli.png
+      logo: 
+      url: https://cli.im/url
+      description: 二维码演示，手机扫一扫，也可以点击
     
 
 - taxonomy: 社区咨询
