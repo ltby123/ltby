@@ -3,21 +3,21 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Dribbble
+    - title: youtube
       logo: 
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+      url: https://www.youtube.com/
+      description: 全球视频平台。
+    - title: cloudflare
+      url: https://dash.cloudflare.com/login
+      description: 全球性云平台，提供网络服务。
     - title: 二维码演示
       qrcode: images/qrcodes/cli.png
       logo: 
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
+    - title: github
+      url: https://github.com/
+      description: 存储共享并编写代码的云平台。
     - title: 站酷
       url: https://www.zcool.com.cn/
       description: 中国人气设计师互动平台
