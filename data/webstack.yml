@@ -58,57 +58,57 @@
       url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
    
 
-- taxonomy: 社区咨询
+- taxonomy: 导航网站
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+    - title: 老王导航
+      logo: 
+      url: https://nav.eooce.com/
+      description: 集合网络应用所需的常用导航工具
+    - title: QQ邮箱
+      logo: 
+      url: https://mail.qq.com/
+      description: 
+    - title: 优设导航
+      logo: 
+      url: https://hao.uisdc.com/
+      description: 国内设计师专用网站导航
+    - title: 西贝导航
+      logo: 
+      url: https://xibel.cn/
+      description: 综合性网站导航
+    - title: NAV导航
+      logo: 
+      url: https://nav.cnxiaobai.com/
+      description: 个人网址收藏
+    - title: 万有导航
+      logo: 
+      url: https://wanyouw.com/
+      description: 万有导航丨一个互联网全职业的聚合资源网址导航
+    - title: 摸鱼导航
+      logo: 
+      url: https://moyu.games/
+      description: 摸鱼人都是人上人
+    - title: 软仓
+      logo: 
+      url: https://www.xiaozhongjishu.com/#term-449
+      description: 小众技术工具库
+    - title: AI工具集 
+      logo: 
+      url: https://ai-bot.cn/favorites/ai-image-tools/
+      description: 汇总各种AI功能及在线网站的平台
+    - title: 刘明野工具箱
+      logo: 
+      url: https://tools.liumingye.cn/
+      description: 汇集各类影视、音乐、游戏等娱乐网站
+    - title: 爱达杂货铺
+      logo: 
+      url: https://adzhp.cc/
+      description: 爱达杂货铺 | 收集那些有用的东西
+    - title: 搜图导航
+      logo: 
+      url: https://www.91sotu.com/
+      description: 一站式快速搜索图像
     
 
 - taxonomy: 灵感采集
