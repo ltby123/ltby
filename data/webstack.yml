@@ -3,70 +3,70 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: youtube
+    - title: YouTube
       logo: 
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台。
-    - title: cloudflare
-      url: https://dash.cloudflare.com/login
-      description: 全球性云平台，提供网络服务。
-    - title: github
-      url: https://github.com/
-      description: 存储共享并编写代码的云平台。
-    - title: TikTok
-      logo: 
-      url: https://www.tiktok.com/foryou?lang=zh-Hans
-      description: 视频网站。
-    - title:instagram
-      logo: 
-      url:https://www.instagram.com/ 
-      description: 交友平台。 
-    - title:telegram
-      logo: 
-      url: https://web.telegram.org/k/
-      description:跨平台的即时通讯软件。
-    - title: 老王导航
-      logo: 
-      url: https://nav.eooce.com/
-      description: 个人专属导航。 
-    - title: Pinterest
+      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      description: 一个专注于软件安装，科学上网教学的频道！
+    - title: 资源博客
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://kjgx668.blogspot.com/
+      description: 资源分享，详细图文教程。
+    - title: Switch eSIM卡
+      logo: images/logos/Switch.jpg
+      url: https://s.tb.cn/c.0wEMb6
+      description: 让国行手机也有eSIM功能
+    - title: 环球巴士
+      qrcode: 
+      logo: images/logos/HQBS.png
+      url: https://universalbus.cn?s=gB8CJKmJdd
+      description: 流媒体影音账号合租平
+    - title: 万事达虚拟信用卡
+      url: https://bewildcard.com/i/WGRDRMGL
+      description: 支付宝、微信充值，海外消费。
+    - title: visa虚拟卡
+      qrcode: images/qrcodes/usdt.png
       logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
+      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
+      description: usdt套现，国内拼多多消费，支付宝消费
+    - title: IOS (苹果) ID 礼品卡/兑换码
+      logo:  images/logos/5eac6d69dc12980944f98.jpg
+      url: https://app.xintaifree.com?from=5431/
+      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+    - title: Telegram
       logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: chatgpt
-      logo: 
-      url: https://chatgpt.com/
-      description: 全球最大的AI平台。
-    - title: openAI
-      logo: 
-      url: https://openai.com/
-      description: AI平台。
-    - title: Grok
-      logo: 
-      url: https://grok.com/
-      description: 马斯克创建的AI平台   
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击    
+      url: https://t.me/kjgxZY/
+      description: 科技共享资源频道
+    - title: Telegram群组
+      url: https://t.me/+qf_DtRZ90ys2ZDBl/
+      description: 沟通交流，资源分享
+    - title: 接码平台
+      logo:  
+      url: https://sms-activate.org/?ref=4312619/
+      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: OneDrive直链
+      url: https://onedrive.gimhoy.com/
+      description: OneDrive直链获取工具
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成
+    - title: 轻抖
+      qrcode: 
+      logo: images/logos/qingdou.jpg
+      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
+      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
+    - title: 流量变现
+      logo:  images/logos/rengtuiban.png
+      url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
+      description: 一线的APP推广项目分发和流量变现平台
+
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
     - title: 雷锋网
       logo: images/logos/leiphone.png
       url: https://www.leiphone.com/
