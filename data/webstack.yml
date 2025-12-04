@@ -56,10 +56,7 @@
     - title: 网易邮箱
       logo:  
       url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
-   - title: QQ邮箱
-      logo:  
-      url: https://wx.mail.qq.com/?cancel_login=true&from=get_ticket_fail  
-
+   
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
