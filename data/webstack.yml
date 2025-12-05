@@ -494,40 +494,40 @@
           logo: images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
       
-    - term: Mockup
+    - term: 在线下载
       links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-        - title: Dunnnk
-          url: http://dunnnk.com/
-          logo: images/logos/Dunnnk.png
-          description:  Generate Product Mockups For Free
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
-        - title: Threed
-          url: http://threed.io/
-          logo: images/logos/threed.png
-          description: Generate 3D Mockups right in your Browser
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
-        - title: Lstore
-          url: https://free.lstore.graphics/
-          logo: images/logos/lstore.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: pixeden
-          url: https://www.pixeden.com/
-          logo: images/logos/pixeden.png
-          description: free web resources and graphic design templates.
-        - title: For Graphic TM
-          url: http://forgraphictm.com/
-          logo: images/logos/forgraphictm.png
-          description: High Quality PSD Mockups for Graphic Designers.
+        - title: youtube下载器
+          url: https://yt5s.biz/zh-cnwr200/
+          logo: 
+          description: youtube的视频和音乐下载的专用工具
+        - title: youtube在线下载
+          url: https://ripyoutube.com/en1
+          logo: 
+          description: youtube的视频专用下载器
+        - title: ig下载器
+          url: https://fastdl.app/zh
+          logo: 
+          description: 下载Instagram视频、照片、Reels、IGTV和轮播
+        - title: Instagram下载器
+          url: https://snapreels.net/zh-cn
+          logo: 
+          description: 在线下载Instagram上的音视频及图片
+        - title: Pinterest下载器
+          url: https://www.expertsphp.com/pinterest-video-downloader/
+          logo: 
+          description: Pinterest 视频、卷轴、图像和 gif在线下载
+        - title: CSDN解锁工具
+          url: https://csdn.zeroai.chat/
+          logo: 
+          description: 免费在线解锁CSDN网站的文章和工具
+        - title: 视频转GIF
+          url: https://mp4togif.pro/
+          logo: 
+          description: 免费在线 MP4 到 GIF 转换器
+        - title: 无损音乐下载
+          url: https://flac.music.hi.cn/
+          logo: 
+          description: 在线搜索无损音乐并播放下载
       
     - term: 摄影图库
       links:
