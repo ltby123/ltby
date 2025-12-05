@@ -223,7 +223,7 @@
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list: 
-    - term: 平面素材
+    - term: 综合素材
       links:
         - title: 花瓣网
           logo: 
@@ -261,18 +261,18 @@
           logo: 
           url: https://elements.envato.com/
           description: 提供海量设计素材、模板、工具和教程的创意资产市场
-        - title: mixkit
+        - title: Mixkit
           logo: 
           url: https://mixkit.co/
           description: 一个视频项目的免费资源平台
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
+        - title: Unsplash
+          logo: 
+          url: https://unsplash.com/
+          description: 互联网的视觉来源
+        - title: Pixabay
+          logo: 
+          url: https://pixabay.com/
+          description: 免版税图片和库存
         - title: Wallpaper
           logo: 
           url: https://haowallpaper.com/
