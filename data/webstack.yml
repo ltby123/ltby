@@ -299,22 +299,10 @@
 
     - term: 平面素材
       links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: images/logos/365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: Medialoot
-          logo: images/logos/Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot
+        - title: 昵图网
+          logo: images/logos/nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台
         - title: 千图网
           logo: images/logos/qiantu.png
           url: http://www.58pic.com/
@@ -331,10 +319,6 @@
           logo: images/logos/90sheji.png
           url: http://90sheji.com/
           description: 电商设计（淘宝美工）千图免费淘宝素材库
-        - title: 昵图网
-          logo: images/logos/nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台
         - title: 懒人图库
           logo: images/logos/lanrentuku.png
           url: http://www.lanrentuku.com/
@@ -351,49 +335,66 @@
           logo: images/logos/sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台
+        - title: freepik
+          logo: images/logos/freepik.png
+          url: https://www.freepik.com/
+          description: More than a million free vectors, PSD, photos and free icons.
+        - title: wallhalla
+          logo: images/logos/wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 站酷
+          logo: 
+          url: https://www.zcool.com.cn/
+          description: 综合性设计师社区
+        - title: 500px
+          logo: 
+          url: https://500px.com.cn/
+          description: 让美好触手可及
+
       
-    - term: UI资源
+    - term: AI资源
       links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
+        - title: 豆包
+          logo: 
+          url: https://www.doubao.com/chat/
+          description: AI智能助手
+        - title: 即梦
+          logo: 
+          url: https://jimeng.jianying.com/ai-tool/home/
+          description: AI智能创作平台
         - title: 云瑞
           logo: images/logos/yrucd.png
           url: https://www.yrucd.com/
           description: 优秀设计资源的分享网站
-        - title: Designmodo
-          logo: images/logos/Designmodo.png
-          url: https://designmodo.com/
-          description: Web Design Blog and Shop
-        - title: 稀土区
-          logo: images/logos/xituqu.png
-          url: https://xituqu.com/
-          description: 优质设计开发资源分享
-        - title: ui8
-          logo: images/logos/ui8.png
-          url: https://ui8.net/
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-        - title: uplabs
-          logo: images/logos/uplabs.png
-          url: https://www.uplabs.com/
-          description: Daily resources for product designers & developers
-        - title: UIkit.me
-          logo: images/logos/uikitme.png
-          url: http://www.uikit.me/
-          description: 最便捷新鲜的uikit资源下载网站
-        - title: Fribbble
-          logo: images/logos/Fribbble.png
-          url: http://www.fribbble.com/
-          description: Free PSD files and other free design resources by Dribbblers.
-        - title: PrincipleRepo
-          logo: images/logos/PrincipleRepo.png
-          url: http://principlerepo.com/
-          description: Free, High Quality Principle Resources
+        - title: 百度助手
+          logo: 
+          url: https://image.baidu.com/
+          description: 免费AI图片生成与海量高清图平台
+        - title: Gemini
+          logo: 
+          url: https://gemini.google.com/app
+          description: 谷歌多模态AI大模型
+        - title: Grok
+          logo: 
+          url: https://grok.com/
+          description: 马斯克旗下的AI平台
+        - title: 阿里千问
+          logo: 
+          url: https://chat.qwen.ai/
+          description: 阿里旗下的AI大模型
+        - title: Freeaiimage
+          logo: 
+          url: https://freeaiimage.net/zh/
+          description: AI快速文字转换图片工具
+        - title: PixverseAI
+          logo: 
+          url: https://app.pixverse.ai/home
+          description: 无限制免费AI视频生成
+        - title: Claude
+          logo: 
+          url: https://claude.ai/onboarding
+          description: 新一代人工智能助手
       
     - term: Sketch资源
       links:
