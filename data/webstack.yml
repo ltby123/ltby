@@ -396,40 +396,40 @@
           url: https://claude.ai/onboarding
           description: 新一代人工智能助手
       
-    - term: Sketch资源
+    - term: 软件资源
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
-        - title: Sketch Measure
-          url: http://utom.design/measure/
-          logo: images/logos/SketchMeasure.png
-          description: Friendly user interface offers you a more intuitive way of making marks.
-        - title: Sketch App Sources
-          url: https://www.sketchappsources.com/
-          logo: images/logos/sketchappsources.png
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-        - title: Sketch.im
-          url: http://www.sketch.im/
-          logo: images/logos/sketchIm.png
-          description: Sketch 相关资源汇聚
-        - title: Sketch Hunt
-          url: http://sketchhunt.com/
-          logo: images/logos/sketchhunt.png
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
-        - title: Sketch中文网
-          url: http://www.sketchcn.com/
-          logo: images/logos/sketchcn.png
-          description: 分享最新的Sketch中文手册
-        - title: Awesome Sketch Plugins
-          url: https://awesome-sket.ch/
-          logo: images/logos/AwesomeSketchPlugins.png
-          description: A collection of really useful Sketch plugins.
-        - title: Sketchcasts
-          url: https://www.sketchcasts.net/
-          logo: images/logos/sketchcasts.png
-          description: Learn Sketch Train your design skills with a weekly video tutorial
+        - title: 吾爱破解论坛
+          url: https://www.52pojie.cn/
+          logo: 
+          description: 软件交流的知名社区
+        - title: 黑域基地
+          url: https://www.hybase.com/
+          logo: 
+          description: 良心软件的栖息之地
+        - title: 423DOWN
+          url: https://www.423down.com/
+          logo: 
+          description: 提供各类软件及免费工具下载的资源聚合平台
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          logo: 
+          description: 专注于提供‌绿色修改版软件和解工具及免费资源下载‌的技术型平台
+        - title: 殁漂遥
+          url: https://www.mpyit.com/
+          logo: 
+          description: 分享‌免安装绿色亲测好用‌的软件资源为主
+        - title: 亿破姐
+          url: https://www.ypojie.com/
+          logo: 
+          description: 建站十年的老牌绿色软件站
+        - title: 墨鱼时间
+          url: https://www.wgbqr.com/
+          logo: 
+          description: 专注于软件分享与下载的公共平台
+        - title: 资源熊
+          url: https://ziyuanxiong.cn/
+          logo: 
+          description: 互联网免费优质资源分享
       
     - term: 字体资源
       links:
@@ -437,10 +437,10 @@
           url: https://fonts.google.com/
           logo: images/logos/googlefont.png
           description: Making the web more beautiful, fast, and open through great typography
-        - title: Typekit
-          url: https://typekit.com/
-          logo: images/logos/typekit.png
-          description: Quality fonts from the world’s best foundries.
+        - title: 自由字体
+          url: https://ziyouziti.com/
+          logo: 
+          description: 免费商用字体大全
         - title: 方正字库
           url: http://www.foundertype.com/
           logo: images/logos/Fondertype.png
@@ -453,26 +453,26 @@
           url: http://sicangziti.com/
           logo: images/logos/sicangziti.png
           description: 优质字体免费下载站
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
-          description: FREE fonts for graphic designers
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: images/logos/losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: images/logos/fontex.png
-          description: Free Fonts to Download + Premium Typefaces
+        - title: 求字体
+          url: https://www.qiuziti.com/
+          logo: 
+          description: 求字体当然不求人
+        - title: 猫啃
+          url: https://www.maoken.com/all-fonts
+          logo: 
+          description: 可下载的免费商用字体
+        - title: 以方
+          url: https://ifonts.com/
+          logo: 
+          description: 字体管理神器
+        - title: 站长字体
+          url: https://font.chinaz.com/index.html
+          logo: 
+          description: 免费字体下载大全
+        - title: 100font
+          url: https://www.100font.com/
+          logo: 
+          description: 免费商用字体大全
         - title: FontM
           url: http://fontm.com/
           logo: images/logos/FontM.png
