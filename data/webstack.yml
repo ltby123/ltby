@@ -141,24 +141,24 @@
           url: https://m.mugeda.com/rm/home/index
           description: 融媒生产管理与数据服务平台
       
-    - term: 学习网站
+    - term: 微信平台
       links:
-        - title: 我要自学网
+        - title: 微信公众号
           logo: 
-          url: https://www.51zxw.net/
-          description: 学习的视频教程
-        - title: PS教程
+          url: https://mp.weixin.qq.com/
+          description: 腾讯公司打造的服务型平台
+        - title: 秀米
           logo: 
-          url: https://www.photoshoplady.com/
-          description: PS专用学习的网站
-        - title: 安娜的档案
+          url: https://xiumi.us/#/
+          description: 微信公众平台编辑器
+        - title: 笔格设计
           logo: 
-          url: https://zh.annas-archive.org/
-          description: 全球最大的图书馆平台
-        - title: Doyoudo 
+          url: https://bigesj.com/
+          description: 135旗下的编辑器产品
+        - title: 135编辑器
           logo: 
-          url: https://doyoudo.com/resources
-          description: 创意设计软件学习平台
+          url: https://www.135editor.com/
+          description: 2000万 用户都选择的AI内驱编辑器
       
     - term: 博客分享
       links:
@@ -223,48 +223,48 @@
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list: 
-    - term: 图标素材
+    - term: 平面素材
       links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
+        - title: 花瓣网
+          logo: 
+          url: https://huaban.com/
+          description: 以图片为核心的视觉灵感分享平台
         - title: iconfont
           logo: images/logos/iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
-        - title: iconmonstr
-          logo: images/logos/iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+        - title: Pinterest
+          logo: 
+          url: https://www.pinterest.com/
+          description: 以图片为核心的视觉发现和分享平台
+        - title: Pexels
+          logo: 
+          url: https://www.pexels.com/zh-cn/videos/
+          description: 国外免费分享图片和视频的素材网站
+        - title: Vidsplay
+          logo: 
+          url: https://www.vidsplay.com/
+          description: 提供高质量、免费可商用视频素材的国外网站
+        - title: Pickfree
+          logo: 
+          url: https://www.pickfree.cn/
+          description: 免版权视频音频图片的图外素材网站
+        - title: Epidemicsound
+          logo: 
+          url: https://www.epidemicsound.com/music/?refresh=true
+          description: 一个免费下载音乐视频的国外网站
+        - title: Freevectors
+          logo: 
+          url: https://www.freevectors.net/
+          description: 国外免费的矢量艺术和图形
+        - title: Envato
+          logo: 
+          url: https://elements.envato.com/
+          description: 提供海量设计素材、模板、工具和教程的创意资产市场
+        - title: mixkit
+          logo: 
+          url: https://mixkit.co/
+          description: 一个视频项目的免费资源平台
         - title: Font Awesome Icon
           logo: images/logos/fontawesomeicon.png
           url: https://fontawesome.com/icons/
@@ -273,10 +273,10 @@
           logo: images/logos/ionicons.png
           url: http://ionicons.com/
           description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
+        - title: Wallpaper
+          logo: 
+          url: https://haowallpaper.com/
+          description: 国外免费壁纸网站
       
     - term: LOGO设计
       links:
