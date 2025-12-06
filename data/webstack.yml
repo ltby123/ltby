@@ -726,82 +726,82 @@
           
 - taxonomy: 技术应用
   icon: fa-palette
-  list: 
-   - term: 测试工具
-     links:
-       - title: 谷歌测速
-         url: https://fiber.google.com/speedtest
-         logo: 
-         description: 在线测试下载速度
-       - title: Fast测速
-         url: https://fast.com/zh/cn/
-         logo: 
-         description: 互联网速度测试
-       - title: PING0
-         url: https://ping0.cc/
-         logo: 
-         description: IP及纯净度测试
-       - title: ITDOG
-         url: https://www.itdog.cn/ping
-         logo: 
-         description: IP延迟测试
-       - title: IPSB
-         url: https://ip.sb/
-         logo: 
-         description: 测试IP地址
-       - title: FOFA
-         url: https://fofa.info/
-         logo: 
-         description: 搜索优选IP
-       - title: proxyIP
-         url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
-         logo: 
-         description: 时时更新
-       - title: 官方优选IP
-         url: https://ipdb.030101.xyz/bestcfv4/
-         logo: 
-         description: 时时更新
-       - title: ip检测
-         url: https://ip.skk.moe/
-         logo: 
-         description: 前网络IP的地址和信息
-       - title: IP111
-         url: https://ip111.cn/
-         logo: 
-         description: 本地IP查询
-       - title: Ipinfo
-         url: https://ipinfo.io/what-is-my-ip
-         logo: 
-         description: 本地IP查询
-       - title: 域名查询
-         url: https://ipchaxun.com/
-         logo: 
-         description: 优选域名的查询
-       - title: 站长IP查询
-         url: https://ping.chinaz.com/ 
-         logo: 
-         description: 站长ping检测
-       - title: 国家二字码
-         url: https://www.51tracking.com/country_two_code.php
-         logo: 
-         description: 
-       - title: 优选proxyip
-         url: https://proxyip.chatkg.qzz.io/
-         logo: 
-         description: 在线查询实时更新的proxyip
-       - title: socks5代理
-         url: https://socks5-proxy.github.io/
-         logo: 
-         description: 实时更新的高质量代理服务器
-       - title: Github加速
-         url: https://fastgit.443888.xyz/
-         logo: 
-         description: 
+  list:
+    - term: 测试工具
+      links:
+        - title: 谷歌测速
+          url: https://fiber.google.com/speedtest
+          logo:
+          description: 在线测试下载速度
+        - title: Fast测速
+          url: https://fast.com/zh/cn/
+          logo:
+          description: 互联网速度测试
+        - title: PING0
+          url: https://ping0.cc/
+          logo:
+          description: IP及纯净度测试
+        - title: ITDOG
+          url: https://www.itdog.cn/ping
+          logo:
+          description: IP延迟测试
+        - title: IPSB
+          url: https://ip.sb/
+          logo:
+          description: 测试IP地址
+        - title: FOFA
+          url: https://fofa.info/
+          logo:
+          description: 搜索优选IP
+        - title: proxyIP
+          url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
+          logo:
+          description: 时时更新
+        - title: 官方优选IP
+          url: https://ipdb.030101.xyz/bestcfv4/
+          logo:
+          description: 时时更新
+        - title: ip检测
+          url: https://ip.skk.moe/
+          logo:
+          description: 前网络IP的地址和信息
+        - title: IP111
+          url: https://ip111.cn/
+          logo:
+          description: 本地IP查询
+        - title: Ipinfo
+          url: https://ipinfo.io/what-is-my-ip
+          logo:
+          description: 本地IP查询
+        - title: 域名查询
+          url: https://ipchaxun.com/
+          logo:
+          description: 优选域名的查询
+        - title: 站长IP查询
+          url: https://ping.chinaz.com/
+          logo:
+          description: 站长ping检测
+        - title: 国家二字码
+          url: https://www.51tracking.com/country_two_code.php
+          logo:
+          description:
+        - title: 优选proxyip
+          url: https://proxyip.chatkg.qzz.io/
+          logo:
+          description: 在线查询实时更新的proxyip
+        - title: socks5代理
+          url: https://socks5-proxy.github.io/
+          logo:
+          description: 实时更新的高质量代理服务器
+        - title: Github加速
+          url: https://fastgit.443888.xyz/
+          logo:
+          description:
 
     - term: 临时工具
       links:
         - title: 域名临时邮箱
-          url: https://moemail.app/zh-CN 
+          url: https://moemail.app/zh-CN
         - title: 教育临时邮箱
           url: https://tempmail.edu.kg/#google_vignette
         - title: 10分钟临时邮箱
@@ -811,7 +811,7 @@
         - title: 一次性临时邮箱
           url: https://22.do/zh
         - title: tempmail
-          url: https://tempmail.plus/zh/#! 
+          url: https://tempmail.plus/zh/#!             
         - title: 真实地址生成器
           url: https://address.nnuu.nyc.mn/
         - title: 美国地址
@@ -827,8 +827,8 @@
         - title: 文件快递柜
           url: https://filebox.nnuu.nyc.mn/#/
         - title: UUID生成
-          url: https://1024tools.com/uuid     
-      
+          url: https://1024tools.com/uuid
+
     - term: 技术服务
       links:
         - title: Dpdns域名
@@ -864,7 +864,7 @@
         - title: 微软云
           url: https://azure.microsoft.com/zh-cn/pricing/purchase-options/azure-account?icid=azurefreeaccount
         - title: 华为云
-          url: ttps://www.huaweicloud.com/
+          url: https://www.huaweicloud.com/
         - title: Katabump
           url: https://dashboard.katabump.com/servers/edit?id=168345
 
@@ -883,35 +883,35 @@
         - title: 好软推荐订阅
           url: https://scene.dl123.netlib.re/admin
         - title: 好软推荐优选
-          url: https://yx.dl123.netlib.re/ 
+          url: https://yx.dl123.netlib.re/
         - title: 天诚订阅器
           url: https://snis.sosorg.nyc.mn/
-        - title:节点池订阅
+        - title: 节点池订阅
           url: https://openproxylist.com/v2ray/#google_vignette
         - title: 裤佬订阅
-          url: https://jsnzkpg.github.io/ 
-          logo: 
+          url: https://jsnzkpg.github.io/
+          logo:
           description: 各种订阅 时时更新
         - title: CM优选IP
           url: https://cf.090227.xyz/
-          logo: 
+          logo:
           description: CloudFlare上的优选域名
         - title: 在线订阅转换
           url: https://sublink.eooce.com
-          logo: 
+          logo:
           description: 老王脚本
         - title: 在线订阅转换
           url: https://sub.v1.mk/
-          logo: 
+          logo:
           description: 肥羊脚本
         - title: 指纹浏览器
-          url: https://www.browserscan.net/zh 
+          url: https://www.browserscan.net/zh
 
     - term: 网盘网站
       links:
         - title: 百度网盘
           url: https://pan.baidu.com/disk/main#/index?category=all
-          logo: 
+          logo:
         - title: 阿里云盘
           url: https://www.alipan.com/sign/in?spm=aliyundrive.index.0.0.7db16f60bYZKeL
         - title: 夸克云盘
@@ -929,80 +929,81 @@
       links:
         - title: PiKa
           url: https://pika.art/pikaframes
-          logo: 
+          logo:
           description: 创意短视频免费生成
         - title: 图像生成
           url: https://www.toolify.ai/zh/free-ai-tools/image-generation-editing
-          logo: 
+          logo:
           description: AI修图去背景换脸生成器
         - title: ViderAI
           url: https://vider.ai/
-          logo: 
+          logo:
           description: 图生视频 | 高质量 | 免注册
         - title: 椒图AI
           url: https://www.jiaotuai.cn/?ref=www.qssily.com
-          logo: 
+          logo:
           description: 让每个人都能轻松创作出专业级图片和视频
-        - title:Runway Gen-2
+        - title: Runway Gen-2
           url: https://runwayml.com/gen-2
-          logo: 
+          logo:
           description: 视频生成 | 行业标杆 | 免登录
         - title: LeonardoAI
           url: https://leonardo.ai/
-          logo: 
+          logo:
           description: 图像生成 | 功能强大 | 免登录
         - title: Krea
           url: https://www.krea.ai/
-          logo: 
+          logo:
           description: 图像生成 | 专业级 | 免注册
         - title: Stable Diffusion
           url: https://stablediffusionweb.com/zh-cn
-          logo: 
+          logo:
           description: 图像生成 | 在线体验 | 免登录
         - title: 扣图神器
           url: https://www.remove.bg/zh
-          logo: 
+          logo:
           description: 一键扣图完全免费
         - title: PDF24
           url: https://www.pdf24.org/zh/
-          logo: 
+          logo:
           description: 免费且易于使用的在线 PDF 工具
         - title: 抓豹
           url: https://catchv.fooish.com/
-          logo: 
+          logo:
           description: 下载所有的主流网站短视频的在线工具
         - title: youtube下载器
           url: https://yt5s.biz/zh-cnwr200/
-          logo: 
+          logo:
           description: youtube的视频和音乐下载的专用工具
         - title: youtube在线下载
           url: https://ripyoutube.com/en1
-          logo: 
+          logo:
           description: youtube的视频专用下载器
         - title: ig下载器
           url: https://fastdl.app/zh
-          logo: 
+          logo:
           description: 下载Instagram视频、照片、Reels、IGTV和轮播
         - title: Instagram下载器
           url: https://snapreels.net/zh-cn
-          logo: 
+          logo:
           description: 在线下载Instagram上的音视频及图片
         - title: Pinterest下载器
           url: https://www.expertsphp.com/pinterest-video-downloader/
-          logo: 
+          logo:
           description: Pinterest 视频、卷轴、图像和 gif在线下载
         - title: CSDN解锁工具
           url: https://csdn.zeroai.chat/
-          logo: 
+          logo:
           description: 免费在线解锁CSDN网站的文章和工具
         - title: 视频转GIF
           url: https://mp4togif.pro/
-          logo: 
+          logo:
           description: 免费在线 MP4 到 GIF 转换器
         - title: 无损音乐下载
           url: https://flac.music.hi.cn/
-          logo: 
+          logo:
           description: 在线搜索无损音乐并播放下载
+
 
     - term: 交互动效
       links:
