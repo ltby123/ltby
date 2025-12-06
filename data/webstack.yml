@@ -128,13 +128,13 @@
           description: 腾讯公司打造的服务型平台
         - title: 秀米
           logo: 
-          url:  https://xiumi.us/#/
+          url: https://xiumi.us/#/
           description: 微信公众号在线编辑器
         - title: 笔格设计
           logo: 
           url: https://bigesj.com/
           description: 135旗下的编辑产品
-          - title: 135编辑器
+        - title: 135编辑器
           logo: 
           url: https://www.135editor.com/
           description: 2000万用户都选择的AI内驱编辑器
@@ -165,7 +165,7 @@
           
     - term: 影视分享
       links:
-          - title: MoonTV
+        - title: MoonTV
           logo: 
           url: https://dong.dlzzz.qzz.io/
           description: 自制在线影院
@@ -177,7 +177,7 @@
           logo: 
           url: https://cmoontv.dedyn.io/
           description: CM制作的在线影院
-          - title: 猴影工坊
+        - title: 猴影工坊
           logo: 
           url: https://monkey-flix.com/
           description: 免费在线电影大全
