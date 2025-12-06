@@ -71,9 +71,7 @@
     - title: NodeLoc
       logo: 
       url: https://www.nodeloc.com/t/topic/69208
-      description: 技术论坛
-      
-   
+      description: 技术论坛   
 
 - taxonomy: 导航网站
   icon: fa-regular fa-newspaper
@@ -117,8 +115,7 @@
     - title: 搜图导航
       logo: 
       url: https://www.91sotu.com/
-      description: 一站式快速搜索图像
-    
+      description: 一站式快速搜索图像    
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
@@ -164,8 +161,50 @@
         - title: 木疙瘩
           logo: 
           url: https://m.mugeda.com/rm/home/index
-          description: 融媒生产管理与数据服务平台     
-  
+          description: 融媒生产管理与数据服务平台  
+          
+    - term: 影视分享
+      links:
+          - title: MoonTV
+          logo: 
+          url: https://dong.dlzzz.qzz.io/
+          description: 自制在线影院
+        - title: LireTV
+          logo: 
+          url: https://dongtv.dong001.dpdns.org/
+          description: 自制在线影院
+        - title: CMooTV
+          logo: 
+          url: https://cmoontv.dedyn.io/
+          description: CM制作的在线影院
+          - title: 猴影工坊
+          logo: 
+          url: https://monkey-flix.com/
+          description: 免费在线电影大全
+        - title: 滴嗒影视
+          logo: 
+          url: https://www.didahd.pro/
+          description: 在线秒播的高分电影集散地
+        - title: 猫影仓库
+          logo: 
+          url: https://www.ymck.pro/
+          description: 免费观影第一站
+        - title: 3Q影院
+          logo: 
+          url: https://qqqys.com/
+          description: 高清无广更新快
+        - title: 西瓜影视
+          logo: 
+          url: https://sszzyy.com/
+          description: 西瓜在线视频
+        - title: 厂长资源
+          logo: 
+          url: https://www.czzymovie.com/
+          description: 超清视频网站
+        - title: No视频
+          logo: 
+          url: https://www.novipnoad.cc/
+          description: 不负追剧好时光的海外资源  
       
     - term: 博客分享
       links:
