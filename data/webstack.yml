@@ -4,72 +4,77 @@
   icon: fa-star
   links:
    - title: 谷歌搜索
-     logo:
+     logo: images/logos/ggss.png
      url: https://www.google.com.hk/ 
      description: 全球最真实的搜索引擎
    - title: YouTube
-     logo: 
+     logo: images/logos/youtube.png
      url: https://www.youtube.com/
      description: 全球最大的视频网站
    - title: cloudflare
-     logo: 
+     logo: images/logos/cf.png
      url: https://dash.cloudflare.com/
      description: 全球性云平台，提供网络服务
    - title: github
-     logo: 
+     logo: images/logos/git.png
      url: https://github.com/
      description: 存储共享并编写代码的云平台
    - title: instagram
+     logo: images/logos/ig.png
      url: https://www.instagram.com/
      description: 全球交友平台
    - title: tiktok
-     logo:
+     logo: images/logos/TikTok.png
      url: https://www.tiktok.com/foryou?lang=zh-Hans
      description: 抖音国际版平台
    - title: telegram
-     logo:  
+     logo:  images/logos/telegram.png
      url: https://web.telegram.org/k/
      description: 跨平台即时通讯软件
    - title: pinterest
-     logo: 
+     logo: images/logos/pint.png
      url: https://www.pinterest.com/
      description: 全球美图收藏采集站
    - title: 花瓣网
+     logo: images/logos/huaban.png
      url: https://huaban.com/
      description: 以图片为核心的视觉灵感分享平台
    - title: ChatGPT
-     logo: 
+     logo: images/logos/gpt.png
      url: https://chatgpt.com/
      description: 最大最实用的AI平台
    - title: deepseek
-     logo:  
+     logo: images/logos/deepseek.png
      url: https://chat.deepseek.com/
      description: 国内最大的AI平台
    - title: 豆包
+     logo: images/logos/db.png
      url: https://www.doubao.com/chat/
      description: 字节跳动旗下 AI 智能助手
    - title: 百度助手
+     logo: images/logos/Baidu.png
      url: https://image.baidu.com/
      description: 免费AI图片生成与海量高清图平台
    - title: 微信公众平台
+     logo: images/logos/weChat.jpg
      url: https://mp.weixin.qq.com/
      description: 腾讯公司打造的服务型平台
    - title: gmail邮箱
-     logo: 
+     logo: images/logos/google-ys.png
      url: https://mail.google.com/mail/u/0/#inbox
    - title: 网易邮箱
-     logo:  
+     logo: images/logos/163.jpg
      url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
    - title: QQ邮箱
-     logo: 
+     logo: images/logos/qq.png
      url: https://mail.qq.com/
      description:
    - title: 老王导航
-     logo: 
+     logo: images/logos/laowang.jpg
      url: https://nav.eooce.com/
      description: 集合网络应用所需的常用导航工具
    - title: NodeLoc
-     logo: 
+     logo: images/logos/nl.png
      url: https://www.nodeloc.com/t/topic/69208
      description: 技术论坛 
 
