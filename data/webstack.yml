@@ -56,19 +56,19 @@
     - title: 网易邮箱
       logo:  
       url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
+    - title: QQ邮箱
+      logo: 
+      url: https://mail.qq.com/
+      description:
+    - title: 老王导航
+      logo: 
+      url: https://nav.eooce.com/
+      description: 集合网络应用所需的常用导航工具
    
 
 - taxonomy: 导航网站
   icon: fa-regular fa-newspaper
   links: 
-    - title: 老王导航
-      logo: 
-      url: https://nav.eooce.com/
-      description: 集合网络应用所需的常用导航工具
-    - title: QQ邮箱
-      logo: 
-      url: https://mail.qq.com/
-      description: 
     - title: 优设导航
       logo: 
       url: https://hao.uisdc.com/
