@@ -2,7 +2,11 @@
 
 - taxonomy: 常用推荐
   icon: fa-star
-  links: 
+  links:
+   - title: 谷歌搜索
+      logo:
+      url: https://www.google.com.hk/ 
+      description: 全球最真实的搜索引擎
     - title: YouTube
       logo: 
       url: https://www.youtube.com/
@@ -15,10 +19,6 @@
       logo: 
       url: https://github.com/
       description: 存储共享并编写代码的云平台
-    - title: chatgpt
-      logo: 
-      url: https://chatgpt.com/
-      description: 最大最实用的AI平台
     - title: instagram
       url: https://www.instagram.com/
       description: 全球交友平台
@@ -37,6 +37,10 @@
     - title: 花瓣网
       url: https://huaban.com/
       description: 以图片为核心的视觉灵感分享平台
+    - title: ChatGPT
+      logo: 
+      url: https://chatgpt.com/
+      description: 最大最实用的AI平台
     - title: deepseek
       logo:  
       url: https://chat.deepseek.com/
@@ -64,6 +68,11 @@
       logo: 
       url: https://nav.eooce.com/
       description: 集合网络应用所需的常用导航工具
+    - title: NodeLoc
+      logo: 
+      url: https://www.nodeloc.com/t/topic/69208
+      description: 技术论坛
+      
    
 
 - taxonomy: 导航网站
@@ -114,8 +123,24 @@
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
-    - term: H5工具
+    - term: 在线编辑
       links:
+        - title: 微信公众号
+          logo: 
+          url: https://mp.weixin.qq.com/
+          description: 腾讯公司打造的服务型平台
+        - title: 秀米
+          logo: 
+          url:  https://xiumi.us/#/
+          description: 微信公众号在线编辑器
+        - title: 笔格设计
+          logo: 
+          url: https://bigesj.com/
+          description: 135旗下的编辑产品
+          - title: 135编辑器
+          logo: 
+          url: https://www.135editor.com/
+          description: 2000万用户都选择的AI内驱编辑器
         - title: 易企秀
           logo: 
           url: https://www.eqxiu.com/
@@ -139,26 +164,8 @@
         - title: 木疙瘩
           logo: 
           url: https://m.mugeda.com/rm/home/index
-          description: 融媒生产管理与数据服务平台
-      
-    - term: 微信平台
-      links:
-        - title: 微信公众号
-          logo: 
-          url: https://mp.weixin.qq.com/
-          description: 腾讯公司打造的服务型平台
-        - title: 秀米
-          logo: 
-          url: https://xiumi.us/#/
-          description: 微信公众平台编辑器
-        - title: 笔格设计
-          logo: 
-          url: https://bigesj.com/
-          description: 135旗下的编辑器产品
-        - title: 135编辑器
-          logo: 
-          url: https://www.135editor.com/
-          description: 2000万 用户都选择的AI内驱编辑器
+          description: 融媒生产管理与数据服务平台     
+  
       
     - term: 博客分享
       links:
