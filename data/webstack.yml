@@ -375,28 +375,6 @@
           logo: 
           url: https://haowallpaper.com/
           description: 国外免费壁纸网站
-      
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
-        - title: Instant Logo Search
-          logo: images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly
-
-    - term: 平面素材
-      links:
         - title: 昵图网
           logo: images/logos/nipic.png
           url: http://www.nipic.com/
@@ -425,10 +403,10 @@
           logo: images/logos/sousucai.png
           url: http://so.ui001.com/
           description: 设计素材搜索聚合
-        - title: PS饭团网
-          logo: images/logos/psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
+        - title: 红动中国
+          logo: 
+          url: https://www.redocn.com/
+          description: 原创正版设计素材平台
         - title: 素材中国
           logo: images/logos/sccnn.png
           url: http://www.sccnn.com/
@@ -448,8 +426,24 @@
         - title: 500px
           logo: 
           url: https://500px.com.cn/
-          description: 让美好触手可及
-      
+          description: 让美好触手可及 
+
+        - title: 菜鸟图库
+          logo: 
+          url: https://www.sucai999.com/video.html
+          description: 海量优质视频素材
+        - title: 潮点视频
+          logo: 
+          url: https://shipin520.com/sp-106258.html
+          description: 一站搞定视频创作，正版素材放心下载
+        - title: PNG图库
+          logo: 
+          url: https://www.pngdirs.com/ 
+          description: 10万+PNG图片素材免费下载
+        - title: 剪辑库
+          logo: 
+          url: https://editku.com/
+          description: 
    
     - term: 软件资源
       links:
@@ -485,6 +479,38 @@
           url: https://ziyuanxiong.cn/
           logo: 
           description: 互联网免费优质资源分享
+        - title: 小众软件
+          url: https://www.appinn.com/
+          logo: 
+          description: 分享免费、小巧、实用、有趣、绿色软件
+        - title: 不死鸟
+          url: https://iui.su/
+          logo: 
+          description: 专注于互联网工具分享的平台
+        - title: 微当下载
+          url: https://www.weidown.com/
+          logo: 
+          description: 免费的软件下载站
+        - title: 影用仓库
+          url: https://wmdz.com/
+          logo: 
+          description: 免费的TV应用大全
+        - title: 分享迷
+          url: https://www.fenxm.com/tv
+          logo: 
+          description: 电视软件分享
+        - title: 聚玩盒子
+          url: https://www.juwanhezi.com/
+          logo: 
+          description: 免费电视TV盒子软件
+        - title: 盒子派
+          url: https://www.hezipie.com/ 
+          logo: 
+          description: 电视盒子免费分享平台
+        - title: 电视喵
+          url: https://tv.dqtx.cc/
+          logo: 
+          description: 一站式TV应用资源中心
       
     - term: 字体资源
       links:
@@ -548,42 +574,26 @@
           url: http://www.abstractfonts.com/
           logo: images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
-      
-    - term: 在线下载
+
+    - term: LOGO设计
       links:
-        - title: youtube下载器
-          url: https://yt5s.biz/zh-cnwr200/
-          logo: 
-          description: youtube的视频和音乐下载的专用工具
-        - title: youtube在线下载
-          url: https://ripyoutube.com/en1
-          logo: 
-          description: youtube的视频专用下载器
-        - title: ig下载器
-          url: https://fastdl.app/zh
-          logo: 
-          description: 下载Instagram视频、照片、Reels、IGTV和轮播
-        - title: Instagram下载器
-          url: https://snapreels.net/zh-cn
-          logo: 
-          description: 在线下载Instagram上的音视频及图片
-        - title: Pinterest下载器
-          url: https://www.expertsphp.com/pinterest-video-downloader/
-          logo: 
-          description: Pinterest 视频、卷轴、图像和 gif在线下载
-        - title: CSDN解锁工具
-          url: https://csdn.zeroai.chat/
-          logo: 
-          description: 免费在线解锁CSDN网站的文章和工具
-        - title: 视频转GIF
-          url: https://mp4togif.pro/
-          logo: 
-          description: 免费在线 MP4 到 GIF 转换器
-        - title: 无损音乐下载
-          url: https://flac.music.hi.cn/
-          logo: 
-          description: 在线搜索无损音乐并播放下载
-      
+        - title: Iconsfeed
+          logo: images/logos/iconsfeed.png
+          url: http://www.iconsfeed.com/
+          description: iOS icons gallery
+        - title: iOS Icon Gallery
+          logo: images/logos/iosicongallery.png
+          url: http://iosicongallery.com/
+          description: Showcasing beautiful icon designs from the iOS App Store
+        - title: World Vector Logo
+          logo: images/logos/worldvectorlogo.png
+          url: https://worldvectorlogo.com/
+          description: Brand logos free to download
+        - title: Instant Logo Search
+          logo: images/logos/InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly      
+    
     - term: 摄影图库
       links:
         - title: Unsplash
@@ -713,7 +723,6 @@
           url: http://ppt.500d.me/
           logo: images/logos/500d.png
           description: 中国领先的PPT模板共享平台
-      
 
 - taxonomy: 常用工具
   icon: fa-palette
@@ -750,6 +759,41 @@
           url: https://cloud.google.com/
         - title: 阿里云
           url: https://www.aliyun.com/
+
+    - term: 在线下载
+      links:
+        - title: youtube下载器
+          url: https://yt5s.biz/zh-cnwr200/
+          logo: 
+          description: youtube的视频和音乐下载的专用工具
+        - title: youtube在线下载
+          url: https://ripyoutube.com/en1
+          logo: 
+          description: youtube的视频专用下载器
+        - title: ig下载器
+          url: https://fastdl.app/zh
+          logo: 
+          description: 下载Instagram视频、照片、Reels、IGTV和轮播
+        - title: Instagram下载器
+          url: https://snapreels.net/zh-cn
+          logo: 
+          description: 在线下载Instagram上的音视频及图片
+        - title: Pinterest下载器
+          url: https://www.expertsphp.com/pinterest-video-downloader/
+          logo: 
+          description: Pinterest 视频、卷轴、图像和 gif在线下载
+        - title: CSDN解锁工具
+          url: https://csdn.zeroai.chat/
+          logo: 
+          description: 免费在线解锁CSDN网站的文章和工具
+        - title: 视频转GIF
+          url: https://mp4togif.pro/
+          logo: 
+          description: 免费在线 MP4 到 GIF 转换器
+        - title: 无损音乐下载
+          url: https://flac.music.hi.cn/
+          logo: 
+          description: 在线搜索无损音乐并播放下载          
 
     - term: 交互动效
       links:
