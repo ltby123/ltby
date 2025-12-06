@@ -723,80 +723,80 @@
           url: http://ppt.500d.me/
           logo: images/logos/500d.png
           description: 中国领先的PPT模板共享平台
-
+          
 - taxonomy: 技术应用
   icon: fa-palette
   list: 
-    - term: 测试工具
-      links:
-        - title: 谷歌测速
-          url: https://fiber.google.com/speedtest
-          logo: 
-          description: 在线测试下载速度
-        - title: Fast测速
-          url: https://fast.com/zh/cn/
-          logo: 
-          description: 互联网速度测试
-        - title: PING0
-          url: https://ping0.cc/
-          logo: 
-          description: IP及纯净度测试
-        - title: ITDOG
-          url: https://www.itdog.cn/ping
-          logo: 
-          description: IP延迟测试
-        - title: IPSB
-          url: https://ip.sb/
-          logo: 
-          description: 测试IP地址
-        - title: FOFA
-          url: https://fofa.info/
-          logo: 
-          description: 搜索优选IP
-        - title: proxyIP
-          url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
-          logo: 
-          description: 时时更新
-        - title: 官方优选IP
-          url: https://ipdb.030101.xyz/bestcfv4/
-          logo: 
-          description: 时时更新
-        - title: ip检测
-          url: https://ip.skk.moe/
-          logo: 
-          description: 前网络IP的地址和信息
-        - title: IP111
-          url: https://ip111.cn/
-          logo: 
-          description: 本地IP查询
-        - title: Ipinfo
-          url: https://ipinfo.io/what-is-my-ip
-          logo: 
-          description: 本地IP查询
-        - title: 域名查询
-          url: https://ipchaxun.com/
-          logo: 
-          description: 优选域名的查询
-        - title: 站长IP查询
-          url: https://ping.chinaz.com/ 
-          logo: 
-          description: 站长ping检测
-        - title: 国家二字码
-          url: https://www.51tracking.com/country_two_code.php
-          logo: 
-          description: 
-        - title: 优选proxyip
-          url: https://proxyip.chatkg.qzz.io/
-          logo: 
-          description: 在线查询实时更新的proxyip
-        - title: socks5代理
-          url: https://socks5-proxy.github.io/
-          logo: 
-          description: 实时更新的高质量代理服务器
-        - title: Github加速
-          url: https://fastgit.443888.xyz/
-          logo: 
-          description: 
+   - term: 测试工具
+     links:
+       - title: 谷歌测速
+         url: https://fiber.google.com/speedtest
+         logo: 
+         description: 在线测试下载速度
+       - title: Fast测速
+         url: https://fast.com/zh/cn/
+         logo: 
+         description: 互联网速度测试
+       - title: PING0
+         url: https://ping0.cc/
+         logo: 
+         description: IP及纯净度测试
+       - title: ITDOG
+         url: https://www.itdog.cn/ping
+         logo: 
+         description: IP延迟测试
+       - title: IPSB
+         url: https://ip.sb/
+         logo: 
+         description: 测试IP地址
+       - title: FOFA
+         url: https://fofa.info/
+         logo: 
+         description: 搜索优选IP
+       - title: proxyIP
+         url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
+         logo: 
+         description: 时时更新
+       - title: 官方优选IP
+         url: https://ipdb.030101.xyz/bestcfv4/
+         logo: 
+         description: 时时更新
+       - title: ip检测
+         url: https://ip.skk.moe/
+         logo: 
+         description: 前网络IP的地址和信息
+       - title: IP111
+         url: https://ip111.cn/
+         logo: 
+         description: 本地IP查询
+       - title: Ipinfo
+         url: https://ipinfo.io/what-is-my-ip
+         logo: 
+         description: 本地IP查询
+       - title: 域名查询
+         url: https://ipchaxun.com/
+         logo: 
+         description: 优选域名的查询
+       - title: 站长IP查询
+         url: https://ping.chinaz.com/ 
+         logo: 
+         description: 站长ping检测
+       - title: 国家二字码
+         url: https://www.51tracking.com/country_two_code.php
+         logo: 
+         description: 
+       - title: 优选proxyip
+         url: https://proxyip.chatkg.qzz.io/
+         logo: 
+         description: 在线查询实时更新的proxyip
+       - title: socks5代理
+         url: https://socks5-proxy.github.io/
+         logo: 
+         description: 实时更新的高质量代理服务器
+       - title: Github加速
+         url: https://fastgit.443888.xyz/
+         logo: 
+         description: 
 
     - term: 临时工具
       links:
