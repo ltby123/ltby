@@ -4,118 +4,118 @@
   icon: fa-star
   links:
    - title: 谷歌搜索
-      logo:
-      url: https://www.google.com.hk/ 
-      description: 全球最真实的搜索引擎
-    - title: YouTube
-      logo: 
-      url: https://www.youtube.com/
-      description: 全球最大的视频网站
-    - title: cloudflare
-      logo: 
-      url: https://dash.cloudflare.com/
-      description: 全球性云平台，提供网络服务
-    - title: github
-      logo: 
-      url: https://github.com/
-      description: 存储共享并编写代码的云平台
-    - title: instagram
-      url: https://www.instagram.com/
-      description: 全球交友平台
-    - title: tiktok
-      logo:
-      url: https://www.tiktok.com/foryou?lang=zh-Hans
-      description: 抖音国际版平台
-    - title: telegram
-      logo:  
-      url: https://web.telegram.org/k/
-      description: 跨平台即时通讯软件
-    - title: pinterest
-      logo: 
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣网
-      url: https://huaban.com/
-      description: 以图片为核心的视觉灵感分享平台
-    - title: ChatGPT
-      logo: 
-      url: https://chatgpt.com/
-      description: 最大最实用的AI平台
-    - title: deepseek
-      logo:  
-      url: https://chat.deepseek.com/
-      description: 国内最大的AI平台
-    - title: 豆包
-      url: https://www.doubao.com/chat/
-      description: 字节跳动旗下 AI 智能助手
-    - title: 百度助手
-      url: https://image.baidu.com/
-      description: 免费AI图片生成与海量高清图平台
-    - title: 微信公众平台
-      url: https://mp.weixin.qq.com/
-      description: 腾讯公司打造的服务型平台
-    - title: gmail邮箱
-      logo: 
-      url: https://mail.google.com/mail/u/0/#inbox
-    - title: 网易邮箱
-      logo:  
-      url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
-    - title: QQ邮箱
-      logo: 
-      url: https://mail.qq.com/
-      description:
-    - title: 老王导航
-      logo: 
-      url: https://nav.eooce.com/
-      description: 集合网络应用所需的常用导航工具
-    - title: NodeLoc
-      logo: 
-      url: https://www.nodeloc.com/t/topic/69208
-      description: 技术论坛   
+     logo:
+     url: https://www.google.com.hk/ 
+     description: 全球最真实的搜索引擎
+   - title: YouTube
+     logo: 
+     url: https://www.youtube.com/
+     description: 全球最大的视频网站
+   - title: cloudflare
+     logo: 
+     url: https://dash.cloudflare.com/
+     description: 全球性云平台，提供网络服务
+   - title: github
+     logo: 
+     url: https://github.com/
+     description: 存储共享并编写代码的云平台
+   - title: instagram
+     url: https://www.instagram.com/
+     description: 全球交友平台
+   - title: tiktok
+     logo:
+     url: https://www.tiktok.com/foryou?lang=zh-Hans
+     description: 抖音国际版平台
+   - title: telegram
+     logo:  
+     url: https://web.telegram.org/k/
+     description: 跨平台即时通讯软件
+   - title: pinterest
+     logo: 
+     url: https://www.pinterest.com/
+     description: 全球美图收藏采集站
+   - title: 花瓣网
+     url: https://huaban.com/
+     description: 以图片为核心的视觉灵感分享平台
+   - title: ChatGPT
+     logo: 
+     url: https://chatgpt.com/
+     description: 最大最实用的AI平台
+   - title: deepseek
+     logo:  
+     url: https://chat.deepseek.com/
+     description: 国内最大的AI平台
+   - title: 豆包
+     url: https://www.doubao.com/chat/
+     description: 字节跳动旗下 AI 智能助手
+   - title: 百度助手
+     url: https://image.baidu.com/
+     description: 免费AI图片生成与海量高清图平台
+   - title: 微信公众平台
+     url: https://mp.weixin.qq.com/
+     description: 腾讯公司打造的服务型平台
+   - title: gmail邮箱
+     logo: 
+     url: https://mail.google.com/mail/u/0/#inbox
+   - title: 网易邮箱
+     logo:  
+     url: https://mail.163.com/js6/main.jsp?sid=ILNeNcEEmYswpZmPTzxpfZDLFIaWlifI&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
+   - title: QQ邮箱
+     logo: 
+     url: https://mail.qq.com/
+     description:
+   - title: 老王导航
+     logo: 
+     url: https://nav.eooce.com/
+     description: 集合网络应用所需的常用导航工具
+   - title: NodeLoc
+     logo: 
+     url: https://www.nodeloc.com/t/topic/69208
+     description: 技术论坛   
 
 - taxonomy: 导航网站
   icon: fa-regular fa-newspaper
   links: 
-    - title: 优设导航
-      logo: 
-      url: https://hao.uisdc.com/
-      description: 国内设计师专用网站导航
-    - title: 西贝导航
-      logo: 
-      url: https://xibel.cn/
-      description: 综合性网站导航
-    - title: NAV导航
-      logo: 
-      url: https://nav.cnxiaobai.com/
-      description: 个人网址收藏
-    - title: 万有导航
-      logo: 
-      url: https://wanyouw.com/
-      description: 万有导航丨一个互联网全职业的聚合资源网址导航
-    - title: 摸鱼导航
-      logo: 
-      url: https://moyu.games/
-      description: 摸鱼人都是人上人
-    - title: 软仓
-      logo: 
-      url: https://www.xiaozhongjishu.com/#term-449
-      description: 小众技术工具库
-    - title: AI工具集 
-      logo: 
-      url: https://ai-bot.cn/favorites/ai-image-tools/
-      description: 汇总各种AI功能及在线网站的平台
-    - title: 刘明野工具箱
-      logo: 
-      url: https://tools.liumingye.cn/
-      description: 汇集各类影视、音乐、游戏等娱乐网站
-    - title: 爱达杂货铺
-      logo: 
-      url: https://adzhp.cc/
-      description: 爱达杂货铺 | 收集那些有用的东西
-    - title: 搜图导航
-      logo: 
-      url: https://www.91sotu.com/
-      description: 一站式快速搜索图像    
+   - title: 优设导航
+     logo: 
+     url: https://hao.uisdc.com/
+     description: 国内设计师专用网站导航
+   - title: 西贝导航
+     logo: 
+     url: https://xibel.cn/
+     description: 综合性网站导航
+   - title: NAV导航
+     logo: 
+     url: https://nav.cnxiaobai.com/
+     description: 个人网址收藏
+   - title: 万有导航
+     logo: 
+     url: https://wanyouw.com/
+     description: 万有导航丨一个互联网全职业的聚合资源网址导航
+   - title: 摸鱼导航
+     logo: 
+     url: https://moyu.games/
+     description: 摸鱼人都是人上人
+   - title: 软仓
+     logo: 
+     url: https://www.xiaozhongjishu.com/#term-449
+     description: 小众技术工具库
+   - title: AI工具集 
+     logo: 
+     url: https://ai-bot.cn/favorites/ai-image-tools/
+     description: 汇总各种AI功能及在线网站的平台
+   - title: 刘明野工具箱
+     logo: 
+     url: https://tools.liumingye.cn/
+     description: 汇集各类影视、音乐、游戏等娱乐网站
+   - title: 爱达杂货铺
+     logo: 
+     url: https://adzhp.cc/
+     description: 爱达杂货铺 | 收集那些有用的东西
+   - title: 搜图导航
+     logo: 
+     url: https://www.91sotu.com/
+     description: 一站式快速搜索图像    
 
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
