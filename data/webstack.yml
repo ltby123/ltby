@@ -94,7 +94,7 @@
      url: https://www.doubao.com/chat/
      description: AI智能助手
    - title: 即梦
-     logo: images/logos/gm.png
+     logo: images/logos/jm.jpg
      url: https://jimeng.jianying.com/ai-tool/home/
      description: AI智能创作平台
    - title: 云瑞
@@ -106,7 +106,7 @@
      url: https://image.baidu.com/
      description: 免费AI图片生成与海量高清图平台
    - title: Gemini
-     logo: images/logos/gemini.png
+     logo: images/logos/gemini-color.png
      url: https://gemini.google.com/app
      description: 谷歌多模态AI大模型
    - title: Grok
@@ -114,7 +114,7 @@
      url: https://grok.com/
      description: 马斯克旗下的AI平台
    - title: 阿里千问
-     logo: images/logos/alqw.png
+     logo: images/logos/阿里千问.png
      url: https://chat.qwen.ai/
      description: 阿里旗下的AI大模型
    - title: Freeaiimage
@@ -154,7 +154,7 @@
      url: https://moyu.games/
      description: 摸鱼人都是人上人
    - title: 软仓
-     logo: images/logos/ruancang.jpg
+     logo: images/logos/软仓.png
      url: https://www.xiaozhongjishu.com/#term-449
      description: 小众技术工具库
    - title: AI工具集 
@@ -166,7 +166,7 @@
      url: https://tools.liumingye.cn/
      description: 汇集各类影视、音乐、游戏等娱乐网站
    - title: 爱达杂货铺
-     logo: images/logos/aida.png
+     logo: images/logos/爱达杂货铺.jpeg
      url: https://adzhp.cc/
      description: 爱达杂货铺 | 收集那些有用的东西
    - title: 搜图导航
@@ -184,7 +184,7 @@
           url: https://mp.weixin.qq.com/
           description: 腾讯公司打造的服务型平台
         - title: 秀米
-          logo: images/logos/xm.jpg
+          logo: images/logos/秀米.png
           url: https://xiumi.us/#/
           description: 微信公众号在线编辑器
         - title: 笔格设计
@@ -266,19 +266,19 @@
     - term: 博客分享
       links:
         - title: 不良林
-          logo: images/logos/nsp.png
+          logo: images/logos/bll.png
           url: https://www.bulianglin.com/
           description: 科学上网 技术分享
         - title: CM
-          logo: images/logos/nsp.png
+          logo: images/logos/CM.jpg
           url: https://vercel.blog.cmliussss.com/
           description: CM喂饭干货满满
         - title: 勇哥侃侃侃
-          logo: images/logos/nsp.png
+          logo: images/logos/ygkkk.jpg
           url: https://ygkkk.blogspot.com/
           description: youtube教程摘要
         - title: joeyblog
-          logo: images/logos/nsp.png
+          logo: images/logos/joeyblog.jpg
           url: https://joeyblog.net/
           description: 一个分享技术的博客
         - title: SO启程
@@ -286,39 +286,39 @@
           url: https://set-out8.blogspot.com/
           description: 技术分享与应用
         - title: 数字套利
-          logo: images/logos/nsp.png
+          logo: images/logos/数字套利.jpg
           url: https://blog.809098.xyz/
           description: 技术分享 干货满满
         - title: 奶油之家
-          logo: images/logos/nsp.png
+          logo: images/logos/奶油之家.png
           url: https://naiyous.com/
           description: 电脑软件 网络技术 VPS搭建
         - title: 资源分享社
-          logo: images/logos/nsp.png
+          logo: images/logos/资源分享社.jpg
           url: https://zyfxs.top/
           description: 每天分享可靠且实用的知识
         - title: 一万AI分享
-          logo: images/logos/nsp.png
+          logo: images/logos/一万AI分享.jpg
           url: https://blog.910501.xyz/
           description: 聚焦AI、数码、未来趋势，用内容解码科技世界
         - title: 小布分享
-          logo: images/logos/nsp.png
+          logo: images/logos/小布分享.jpg
           url: https://www.smallstep.one/
           description: 共享技术服务的博客
         - title: 零度博客
-          logo: images/logos/nsp.png
+          logo: images/logos/零度博客.jpg
           url: https://www.freedidi.com/
           description: 专注分享免费实用软件
         - title: 青云志
-          logo: images/logos/nsp.png
+          logo: images/logos/青云志1.png
           url: https://blog.811520.xyz/
           description: 个人技术博客
         - title: 周润发
-          logo: images/logos/nsp.png
+          logo: images/logos/图标.png
           url: https://blog.zrf.me/p/60/
           description: 公益服务博客
         - title: 玉豆分享
-          logo: images/logos/nsp.png
+          logo: images/logos/玉豆分享.jpg
           url: https://www.yudou6677.top/search/label/jishu
           description: 资源型博客网站
 
@@ -493,7 +493,7 @@
           description: 专注于互联网工具分享的平台
         - title: 微当下载
           url: https://www.weidown.com/
-          logo: images/logos/vdxz.jpg
+          logo: images/logos/微当下载.png
           description: 免费的软件下载站
         - title: 影用仓库
           url: https://wmdz.com/
@@ -981,79 +981,79 @@
       links:
         - title: PiKa
           url: https://pika.art/pikaframes
-          logo:
+          logo: images/logos/pika.png
           description: 创意短视频免费生成
         - title: 图像生成
           url: https://www.toolify.ai/zh/free-ai-tools/image-generation-editing
-          logo:
+          logo: images/logos/toolify.png
           description: AI修图去背景换脸生成器
         - title: ViderAI
           url: https://vider.ai/
-          logo:
+          logo: images/logos/Viderai.png
           description: 图生视频 | 高质量 | 免注册
         - title: 椒图AI
           url: https://www.jiaotuai.cn/?ref=www.qssily.com
-          logo:
+          logo: images/logos/椒图AI.svg
           description: 让每个人都能轻松创作出专业级图片和视频
         - title: Runway Gen-2
           url: https://runwayml.com/gen-2
-          logo:
+          logo: images/logos/Runway Gen-2.png
           description: 视频生成 | 行业标杆 | 免登录
         - title: LeonardoAI
           url: https://leonardo.ai/
-          logo:
+          logo: images/logos/LeonardoAI.png
           description: 图像生成 | 功能强大 | 免登录
         - title: Krea
           url: https://www.krea.ai/
-          logo:
+          logo: images/logos/Krea.png
           description: 图像生成 | 专业级 | 免注册
         - title: Stable Diffusion
           url: https://stablediffusionweb.com/zh-cn
-          logo:
+          logo: images/logos/Stable Diffusion.jpg
           description: 图像生成 | 在线体验 | 免登录
         - title: 扣图神器
           url: https://www.remove.bg/zh
-          logo:
+          logo: images/logos/remove.png
           description: 一键扣图完全免费
         - title: PDF24
           url: https://www.pdf24.org/zh/
-          logo:
+          logo: images/logos/PDF24.jpg
           description: 免费且易于使用的在线 PDF 工具
         - title: 抓豹
           url: https://catchv.fooish.com/
-          logo:
+          logo: images/logos/抓豹.jpg
           description: 下载所有的主流网站短视频的在线工具
         - title: youtube下载器
           url: https://yt5s.biz/zh-cnwr200/
-          logo:
+          logo: images/logos/youtube-downloader.jpg
           description: youtube的视频和音乐下载的专用工具
         - title: youtube在线下载
           url: https://ripyoutube.com/en1
-          logo:
+          logo: images/logos/youtube下载器.png
           description: youtube的视频专用下载器
         - title: ig下载器
           url: https://fastdl.app/zh
-          logo:
+          logo: images/logos/ig下载器.jpg
           description: 下载Instagram视频、照片、Reels、IGTV和轮播
         - title: Instagram下载器
           url: https://snapreels.net/zh-cn
-          logo:
+          logo: images/logos/instagram图片下载器.png
           description: 在线下载Instagram上的音视频及图片
         - title: Pinterest下载器
           url: https://www.expertsphp.com/pinterest-video-downloader/
-          logo:
+          logo: images/logos/Pinterest下载器.png
           description: Pinterest 视频、卷轴、图像和 gif在线下载
         - title: CSDN解锁工具
           url: https://csdn.zeroai.chat/
-          logo:
+          logo: images/logos/CSDN解锁工具.png
           description: 免费在线解锁CSDN网站的文章和工具
         - title: 视频转GIF
           url: https://mp4togif.pro/
-          logo:
+          logo: images/logos/mp4togif.jpg
           description: 免费在线 MP4 到 GIF 转换器
         - title: 无损音乐下载
           url: https://flac.music.hi.cn/
-          logo:
+          logo: images/logos/无损音乐下载.webp
           description: 在线搜索无损音乐并播放下载
 
 
