@@ -180,86 +180,86 @@
     - term: 在线编辑
       links:
         - title: 微信公众号
-          logo: 
+          logo: images/logos/weChat.jpg
           url: https://mp.weixin.qq.com/
           description: 腾讯公司打造的服务型平台
         - title: 秀米
-          logo: 
+          logo: images/logos/xm.jpg
           url: https://xiumi.us/#/
           description: 微信公众号在线编辑器
         - title: 笔格设计
-          logo: 
+          logo: images/logos/bg.png
           url: https://bigesj.com/
           description: 135旗下的编辑产品
         - title: 135编辑器
-          logo: 
+          logo: images/logos/135.png
           url: https://www.135editor.com/
           description: 2000万用户都选择的AI内驱编辑器
         - title: 易企秀
-          logo: 
+          logo: images/logos/yqx.png
           url: https://www.eqxiu.com/
           description: 专注于内容创意设计的数字营销平台
         - title: 人人秀
-          logo: 
+          logo: images/logos/rrx.png
           url: https://rrx.cn/
           description: 一站式在线设计和互动营销解决方案
         - title: 易派360
-          logo: 
+          logo: images/logos/yp360.png
           url: https://www.epub360.com/?markcode=tw4d4j
           description: 专业级创新营销H5设计平台
         - title: 可画
-          logo: 
+          logo: images/logos/kh.png
           url: https://www.canva.com/
           description: 提供海量模板和素材的在线设计协作平台
         - title: MAKA
-          logo: 
+          logo: images/logos/maka.png
           url: https://www.maka.im/
           description: 提供海量模板和智能工具的在线设计及活动营销平台
         - title: 木疙瘩
-          logo: 
+          logo: images/logos/mgd.jpg
           url: https://m.mugeda.com/rm/home/index
           description: 融媒生产管理与数据服务平台  
           
     - term: 影视分享
       links:
         - title: MoonTV
-          logo: 
+          logo: images/logos/mootv1.jpg
           url: https://dong.dlzzz.qzz.io/
           description: 自制在线影院
         - title: LireTV
-          logo: 
+          logo: images/logos/liretv.jpg
           url: https://dongtv.dong001.dpdns.org/
           description: 自制在线影院
         - title: CMooTV
-          logo: 
+          logo: images/logos/mootv2.png
           url: https://cmoontv.dedyn.io/
           description: CM制作的在线影院
         - title: 猴影工坊
-          logo: 
+          logo: images/logos/hygf.png
           url: https://monkey-flix.com/
           description: 免费在线电影大全
         - title: 滴嗒影视
-          logo: 
+          logo: images/logos/ddys.png
           url: https://www.didahd.pro/
           description: 在线秒播的高分电影集散地
         - title: 猫影仓库
-          logo: 
+          logo: images/logos/myck.png
           url: https://www.ymck.pro/
           description: 免费观影第一站
         - title: 3Q影院
-          logo: 
+          logo: images/logos/sqyy.png
           url: https://qqqys.com/
           description: 高清无广更新快
         - title: 西瓜影视
-          logo: 
+          logo: images/logos/xgys.jpg
           url: https://sszzyy.com/
           description: 西瓜在线视频
         - title: 厂长资源
-          logo: 
+          logo: images/logos/czzy.png
           url: https://www.czzymovie.com/
           description: 超清视频网站
         - title: No视频
-          logo: 
+          logo: images/logos/nsp.png
           url: https://www.novipnoad.cc/
           description: 不负追剧好时光的海外资源  
       
@@ -329,7 +329,7 @@
     - term: 综合素材
       links:
         - title: 花瓣网
-          logo: 
+          logo: images/logos/huaban.png
           url: https://huaban.com/
           description: 以图片为核心的视觉灵感分享平台
         - title: iconfont
@@ -337,47 +337,47 @@
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
         - title: Pinterest
-          logo: 
+          logo: images/logos/pint.png
           url: https://www.pinterest.com/
           description: 以图片为核心的视觉发现和分享平台
         - title: Pexels
-          logo: 
+          logo: images/logos/Pexels.png
           url: https://www.pexels.com/zh-cn/videos/
           description: 国外免费分享图片和视频的素材网站
         - title: Vidsplay
-          logo: 
+          logo: images/logos/Vidsplay.png
           url: https://www.vidsplay.com/
           description: 提供高质量、免费可商用视频素材的国外网站
         - title: Pickfree
-          logo: 
+          logo: images/logos/pickfree.jpg
           url: https://www.pickfree.cn/
           description: 免版权视频音频图片的图外素材网站
         - title: Epidemicsound
-          logo: 
+          logo: images/logos/Epidemicsound.png
           url: https://www.epidemicsound.com/music/?refresh=true
           description: 一个免费下载音乐视频的国外网站
         - title: Freevectors
-          logo: 
+          logo: images/logos/Freevectors.jpg
           url: https://www.freevectors.net/
           description: 国外免费的矢量艺术和图形
         - title: Envato
-          logo: 
+          logo: images/logos/Envato.png
           url: https://elements.envato.com/
           description: 提供海量设计素材、模板、工具和教程的创意资产市场
         - title: Mixkit
-          logo: 
+          logo: images/logos/Mixkit1.png
           url: https://mixkit.co/
           description: 一个视频项目的免费资源平台
         - title: Unsplash
-          logo: 
+          logo: images/logos/Unsplash.png
           url: https://unsplash.com/
           description: 互联网的视觉来源
         - title: Pixabay
-          logo: 
+          logo: images/logos/pixabay.png
           url: https://pixabay.com/
           description: 免版税图片和库存
         - title: Wallpaper
-          logo: 
+          logo: images/logos/Wallpaper.png
           url: https://haowallpaper.com/
           description: 国外免费壁纸网站
         - title: 昵图网
@@ -409,7 +409,7 @@
           url: http://so.ui001.com/
           description: 设计素材搜索聚合
         - title: 红动中国
-          logo: 
+          logo: images/logos/hdzg.png
           url: https://www.redocn.com/
           description: 原创正版设计素材平台
         - title: 素材中国
@@ -425,28 +425,27 @@
           url: https://wallhalla.com/
           description: Find awesome high quality wallpapers for desktop and mobile in one place.
         - title: 站酷
-          logo: 
+          logo: images/logos/zk.png
           url: https://www.zcool.com.cn/
           description: 综合性设计师社区
         - title: 500px
-          logo: 
+          logo: images/logos/500px.jpeg
           url: https://500px.com.cn/
           description: 让美好触手可及 
-
         - title: 菜鸟图库
-          logo: 
+          logo: images/logos/cn.png
           url: https://www.sucai999.com/video.html
           description: 海量优质视频素材
         - title: 潮点视频
-          logo: 
+          logo: images/logos/cd.png
           url: https://shipin520.com/sp-106258.html
           description: 一站搞定视频创作，正版素材放心下载
         - title: PNG图库
-          logo: 
+          logo: images/logos/png.jpg
           url: https://www.pngdirs.com/ 
           description: 10万+PNG图片素材免费下载
         - title: 剪辑库
-          logo: 
+          logo: images/logos/jjk.png
           url: https://editku.com/
           description: 
    
