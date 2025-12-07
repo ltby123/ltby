@@ -266,59 +266,59 @@
     - term: 博客分享
       links:
         - title: 不良林
-          logo: 
+          logo: images/logos/nsp.png
           url: https://www.bulianglin.com/
           description: 科学上网 技术分享
         - title: CM
-          logo: 
+          logo: images/logos/nsp.png
           url: https://vercel.blog.cmliussss.com/
           description: CM喂饭干货满满
         - title: 勇哥侃侃侃
-          logo: 
+          logo: images/logos/nsp.png
           url: https://ygkkk.blogspot.com/
           description: youtube教程摘要
         - title: joeyblog
-          logo: 
+          logo: images/logos/nsp.png
           url: https://joeyblog.net/
           description: 一个分享技术的博客
         - title: SO启程
-          logo: 
+          logo: images/logos/nsp.png
           url: https://set-out8.blogspot.com/
           description: 技术分享与应用
         - title: 数字套利
-          logo: 
+          logo: images/logos/nsp.png
           url: https://blog.809098.xyz/
           description: 技术分享 干货满满
         - title: 奶油之家
-          logo: 
+          logo: images/logos/nsp.png
           url: https://naiyous.com/
           description: 电脑软件 网络技术 VPS搭建
         - title: 资源分享社
-          logo: 
+          logo: images/logos/nsp.png
           url: https://zyfxs.top/
           description: 每天分享可靠且实用的知识
         - title: 一万AI分享
-          logo: 
+          logo: images/logos/nsp.png
           url: https://blog.910501.xyz/
           description: 聚焦AI、数码、未来趋势，用内容解码科技世界
         - title: 小布分享
-          logo: 
+          logo: images/logos/nsp.png
           url: https://www.smallstep.one/
           description: 共享技术服务的博客
         - title: 零度博客
-          logo: 
+          logo: images/logos/nsp.png
           url: https://www.freedidi.com/
           description: 专注分享免费实用软件
         - title: 青云志
-          logo: 
+          logo: images/logos/nsp.png
           url: https://blog.811520.xyz/
           description: 个人技术博客
         - title: 周润发
-          logo: 
+          logo: images/logos/nsp.png
           url: https://blog.zrf.me/p/60/
           description: 公益服务博客
         - title: 玉豆分享
-          logo: 
+          logo: images/logos/nsp.png
           url: https://www.yudou6677.top/search/label/jishu
           description: 资源型博客网站
 
@@ -524,7 +524,7 @@
           description: Making the web more beautiful, fast, and open through great typography
         - title: 自由字体
           url: https://ziyouziti.com/
-          logo: 
+          logo: images/logos/zyzt.jpg
           description: 免费商用字体大全
         - title: 方正字库
           url: http://www.foundertype.com/
@@ -805,128 +805,176 @@
     - term: 临时工具
       links:
         - title: 域名临时邮箱
+          logo: images/logos/lsys1 (1).png
           url: https://moemail.app/zh-CN
         - title: 教育临时邮箱
+          logo: images/logos/lsys1.png
           url: https://tempmail.edu.kg/#google_vignette
         - title: 10分钟临时邮箱
+          logo: images/logos/10ys.png
           url: https://linshiyouxiang.net/
         - title: edu临时邮箱
+          logo: images/logos/lsys2.png
           url: https://tempmail.edu.kg/
         - title: 一次性临时邮箱
+          logo: images/logos/lsys3.png
           url: https://22.do/zh
         - title: tempmail
+          logo: images/logos/images.jpg
           url: https://tempmail.plus/zh/#!             
         - title: 真实地址生成器
+          logo: images/logos/dzsc.png
           url: https://address.nnuu.nyc.mn/
         - title: 美国地址
+          logo: images/logos/sfsc.png
           url: https://www.meiguodizhi.com/
         - title: 身份大全
+          logo: images/logos/sfsc1.png
           url: https://www.shenfendaquan.com/
         - title: 好维持身份
+          images/logos/sfsc2.jpg
           url: https://www.haoweichi.com/
         - title: 美国地址生成
+          logo: images/logos/sfsc3.png
           url: https://ratenn.com/american.html
         - title: 虚拟电话短信
+          logo: images/logos/ezm.jpg
           url: https://jiemahao.com/us/
         - title: 文件快递柜
+          logo: images/logos/wjkdg.png
           url: https://filebox.nnuu.nyc.mn/#/
         - title: UUID生成
+          logo: images/logos/UUID.jpg
           url: https://1024tools.com/uuid
 
     - term: 技术服务
       links:
         - title: Dpdns域名
+          logo: images/logos/Dpdns.png
           url: https://dash.domain.digitalplat.org/auth/login
         - title: Netlib域名
+          logo: images/logos/NetLib.png
           url: https://www.netlib.re/
         - title: L53域名
+          logo: images/logos/l53.jpg
           url: https://customer.l53.net/login
         - title: Zone域名
+          logo: images/logos/oneabc.png
           url: https://zoneabc.net/login?redirect=/dashboard
         - title: HiDNS域名
+          logo: images/logos/HiDNS.png
           url: https://www.hidoha.net/
         - title: EU.org域名
+          logo: images/logos/EU.jpg
           url: https://nic.eu.org/
         - title: X10域名
+          logo: images/logos/X101.jpg
           url: https://x14.x10hosting.com:2222/evo/login?return-to=/evo/user/dns
         - title: Dynu域名
+          logo: images/logos/dynu.png
           url: https://www.dynu.com/zh-CN/ControlPanel/DDNS
         - title: 爪云
+          logo: images/logos/zy.png
           url: https://us-east-1.run.claw.cloud/
         - title: 拥抱脸
+          logo: images/logos/hugging-face.jpg
           url: https://huggingface.co/
         - title: 甲骨云
+          logo: images/logos/jgw.png
           url: https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F
         - title: 亚马逊云
+          logo: images/logos/Amazon.png
           url: https://aws.amazon.com/cn/
         - title: 谷歌云
+          logo: images/logos/google-cloud.jpg
           url: https://cloud.google.com/
         - title: 阿里云
+          logo: images/logos/alibabacloud-color.png
           url: https://www.aliyun.com/
         - title: 腾讯云
+          logo: images/logos/tencentcloud-color.png
           url: https://www.tencentcloud.com/account/login?s_url=https%3A%2F%2Fconsole.tencentcloud.com%2F
         - title: 微软云
+          logo: images/logos/Microsoft_Azure.png
           url: https://azure.microsoft.com/zh-cn/pricing/purchase-options/azure-account?icid=azurefreeaccount
         - title: 华为云
+          logo: images/logos/hwy.png
           url: https://www.huaweicloud.com/
         - title: Katabump
+          logo: images/logos/favicon.png
           url: https://dashboard.katabump.com/servers/edit?id=168345
 
     - term: 网络服务
       links:
         - title: Ss订阅
+          logo: images/logos/ss.png
           url: https://1115.dong001.dpdns.org/bd0ce21d-082f-40b1-a78f-055e0d3cf262
         - title: edge2.0订阅
+          logo: images/logos/CM.jpg
           url: https://aaa.99978.dpdns.org/admin
         - title: Snip订阅
+          logo: images/logos/Snip.jpg
           url: https://_acme-challenge.2go.cloudns.be/
         - title: joey订阅
+          logo: images/logos/joey1.png
           url: https://v26.ltby123.dpdns.org
         - title: BPB349订阅
+          logo: images/logos/bpb.png
           url: https://bb.dlzzz.dpdns.org/login
         - title: 好软推荐订阅
+          logo: images/logos/hytj.jpg
           url: https://scene.dl123.netlib.re/admin
         - title: 好软推荐优选
+          logo: images/logos/hytj.jpg
           url: https://yx.dl123.netlib.re/
         - title: 天诚订阅器
+          logo: images/logos/tcdy.png
           url: https://snis.sosorg.nyc.mn/
         - title: 节点池订阅
+          logo: images/logos/ggdy.png
           url: https://openproxylist.com/v2ray/#google_vignette
         - title: 裤佬订阅
           url: https://jsnzkpg.github.io/
-          logo:
+          logo: images/logos/kldy.png
           description: 各种订阅 时时更新
         - title: CM优选IP
           url: https://cf.090227.xyz/
-          logo:
+          logo: images/logos/CM.jpg
           description: CloudFlare上的优选域名
         - title: 在线订阅转换
           url: https://sublink.eooce.com
-          logo:
+          logo: images/logos/dyzh.png
           description: 老王脚本
         - title: 在线订阅转换
           url: https://sub.v1.mk/
-          logo:
+          logo: images/logos/dyzh.png
           description: 肥羊脚本
         - title: 指纹浏览器
+          logo: images/logos/zwllq.jpg
           url: https://www.browserscan.net/zh
 
     - term: 网盘网站
       links:
         - title: 百度网盘
           url: https://pan.baidu.com/disk/main#/index?category=all
-          logo:
+          logo: images/logos/bdwp.png
         - title: 阿里云盘
+          logo: images/logos/alyp.jpg
           url: https://www.alipan.com/sign/in?spm=aliyundrive.index.0.0.7db16f60bYZKeL
         - title: 夸克云盘
+          logo: images/logos/kkyp.png
           url: https://pan.quark.cn/list#/list/all
         - title: 天翼云盘
+          logo: images/logos/tyyp.jpg
           url: https://cloud.189.cn/web/login.html?redirectURL=https://cloud.189.cn/web/share?code=qUNFRvrIzqam
         - title: 115网盘
+          logo: images/logos/115.png
           url: https://115.com/?cid=0&offset=0&mode=wangpan
         - title: 小飞机网盘
+          logo: images/logos/xfj.jpg
           url: https://share.feijipan.com/s/vADFlahi
         - title: 123云盘
+          logo: images/logos/123.png
           url: https://www.123pan.com/
 
     - term: 工具箱
