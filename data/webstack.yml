@@ -1170,7 +1170,7 @@
           logo: images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图      
     
-    - term: 视频教程
+    - term: 参考内容
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
@@ -1188,9 +1188,6 @@
           url: https://www.imooc.com/
           logo: images/logos/imooc.png
           description: 程序员的梦工厂（有UI课程）
-        
-    - term: 设计文章
-      links:
         - title: 优设网
           url: http://www.uisdc.com/
           logo: images/logos/uisdc.png
@@ -1203,9 +1200,6 @@
           url: https://medium.com/
           logo: images/logos/medium.png
           description: 面向全球的在线出版和写作平台
-
-    - term: 设计电台
-      links:
         - title: UX Coffee
           url: http://uxcoffee.co/
           logo: images/logos/uxcoffee.png
@@ -1218,9 +1212,6 @@
           url: https://www.yineng.fm
           logo: images/logos/yineng.png
           description: 将全宇宙设计师的故事讲给你听。
-
-    - term: 交互设计
-      links:
         - title: Little Big Details
           url: http://littlebigdetails.com/
           logo: images/logos/littlebigdetails.png
@@ -1313,15 +1304,15 @@
 - taxonomy: 友情链接
   icon: fa-link
   friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
-    - title: webstack.cc
-      url: https://webstack.cc
-      description: webstack - 设计师网址导航
+    - title: eooce
+      url: https://github.com/eooce
+      description: github
+    - title: cmliu
+      url: https://github.com/cmliu
+      description: github
+    - title: ltby123
+      url: https://github.com/ltby123/ltby
+      description: github
     - title: 一为导航
       url: https://nav.iowen.cn/
       description: onenav主题演示站
