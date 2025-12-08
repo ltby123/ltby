@@ -13,8 +13,7 @@ copyright = "ltby"
 [params]
   keywords = "网址导航,webstack,hugo"
   description = "Webstack Hugo版主题,网址导航"
-  customCSS = ["css/custom.css"]     # ← 你需要添加的就是这一行
-
+ 
 # 是否开启搜索栏
 [params.search]
   enable = true
