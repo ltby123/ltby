@@ -1,0 +1,101 @@
+/* ========================
+   全站背景：高级渐变
+   ======================== */
+body {
+    background: linear-gradient(135deg, #1e1e2f 0%, #2a2a40 40%, #20202b 100%);
+    background-attachment: fixed;
+    color: #fff;
+    font-family: "Inter", "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+}
+
+/* 如果你想用背景图，把下面注释去掉并换成自己的图
+body {
+    background: url("/images/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+*/
+
+/* ========================
+   卡片：毛玻璃 + 悬浮
+   ======================== */
+.site-card {
+    background: rgba(255, 255, 255, 0.08) !important;
+    border-radius: 14px !important;
+    backdrop-filter: blur(12px);
+    box-shadow: 0 4px 18px rgba(0,0,0,0.35) !important;
+    transition: all 0.25 ease !important;
+}
+
+.site-card:hover {
+    transform: translateY(-8px) scale(1.03);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.55) !important;
+}
+
+/* ========================
+   图标圆角 & 放大
+   ======================== */
+.site-logo {
+    border-radius: 14px !important;
+    transition: transform 0.25 ease;
+}
+
+.site-card:hover .site-logo {
+    transform: scale(1.15);
+}
+
+/* ========================
+   分类标题美化
+   ======================== */
+.category-title {
+    font-size: 26px !important;
+    margin-top: 40px !important;
+    margin-bottom: 20px !important;
+    color: #ffffffcc !important;
+    letter-spacing: 1px;
+    font-weight: 600 !important;
+}
+
+/* ========================
+   卡片描述文字颜色增强
+   ======================== */
+.site-desc {
+    color: #dddddd !important;
+}
+
+/* ========================
+   顶部导航栏透明毛玻璃
+   ======================== */
+header {
+    background: rgba(0,0,0,0.35) !important;
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* ========================
+   搜索框：磨砂 + 白字
+   ======================== */
+.search-box input {
+    background: rgba(255,255,255,0.12) !important;
+    backdrop-filter: blur(6px);
+    border: 1px solid rgba(255,255,255,0.25);
+    color: #fff !important;
+}
+
+/* placeHolder 文字改成浅白色 */
+.search-box input::placeholder {
+    color: #eeeeeeaa !important;
+}
+
+/* ========================
+   滚动条美化
+   ======================== */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.25);
+    border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
