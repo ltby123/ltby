@@ -782,6 +782,9 @@
         - title: 天诚订阅器
           logo: images/logos/tcdy.png
           url: https://snis.sosorg.nyc.mn/
+        - title: 丹枫订阅器
+          logo: images/logos/tcdy.png
+          url: https://sub.danfeng.eu.org/
         - title: 节点池订阅
           logo: images/logos/ggdy.png
           url: https://openproxylist.com/v2ray/#google_vignette
