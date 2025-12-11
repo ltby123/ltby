@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-    background-image: url('/images/bg1.png'); /* 替换为你的高清背景图 */
+    background-image: url('/images/bg3.jpg'); /* 替换为你的高清背景图 */
     background-size: cover;       /* 铺满屏幕 */
     background-position: center;  /* 居中显示 */
     background-repeat: no-repeat;
@@ -43,24 +43,24 @@ body {
    顶部导航栏
    ============================== */
 .navbar.user-info-navbar {
-    background-color: rgba(176, 196, 222, 0.95) !important; /* 浅土蓝半透明，可调整 */
+    background-color: #b0c4de !important; /* 浅土蓝色，可自定义 */
     box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
 /* ==============================
-   卡片半透明 + 阴影 + 微动画
+   卡片半透明 + 阴影
    ============================== */
 .xe-card {
     background-color: rgba(255, 255, 255, 0.85) !important; /* 半透明白色 */
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important; /* 阴影调小 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15) !important; /* 阴影体现立体感 */
     border-radius: 12px;
     transition: transform 0.3 ease, box-shadow 0.3 ease, background-color 0.3 ease;
 }
 
-/* 悬停效果 */
+/* 悬停效果：只微微放大 + 阴影加深 */
 .xe-card:hover {
-    transform: translateY(-5px) scale(1.02);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25) !important; /* 悬停阴影稍大 */
+    transform: scale(1.02);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.25) !important;
     background-color: rgba(255, 255, 255, 0.95) !important;
 }
 
