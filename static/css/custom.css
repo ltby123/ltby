@@ -1,25 +1,32 @@
 /* ==============================
    页面背景
    ============================== */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background-image: url('/images/bg1.jpg'); /* 替换为你的高清背景图 */
-    background-size: cover;        /* 铺满屏幕 */
-    background-position: center;   /* 居中显示 */
-    background-repeat: no-repeat;  /* 不重复 */
-    background-attachment: fixed;  /* 页面滚动时背景固定 */
+    background-image: url('/images/bg1.png'); /* 替换为你的高清背景图 */
+    background-size: cover;       /* 铺满屏幕 */
+    background-position: center;  /* 居中显示 */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /* ==============================
-   左侧菜单栏 - 浅土蓝色底纹 + 悬停浮动
+   左侧菜单栏 - 浅土蓝色底纹 + 阴影
    ============================== */
 .sidebar-menu {
     background-color: #b0c4de !important;  /* 浅土蓝色底色 */
     background-image: linear-gradient(135deg, #cfe0f4 25%, #b0c4de 25%, #b0c4de 50%, #cfe0f4 50%, #cfe0f4 75%, #b0c4de 75%, #b0c4de 100%);
     background-size: 40px 40px;  /* 底纹大小，可调整 */
+    box-shadow: 2px 0 10px rgba(0,0,0,0.15); /* 左侧阴影 */
     transition: transform 0.3 ease, box-shadow 0.3 ease;
 }
 
-/* 左侧菜单文字颜色 */
+/* 左侧菜单文字 */
 .sidebar-menu .main-menu li a {
     color: #333333 !important;
     font-weight: 500;
@@ -27,14 +34,17 @@ body {
 }
 
 .sidebar-menu .main-menu li a:hover {
-    color: #ffcc00 !important; /* 悬停高亮 */
+    color: #ffcc00 !important;  /* 悬停高亮 */
     text-shadow: 0 1px 2px rgba(0,0,0,0.2);
-    transform: translateY(-3px); /* 悬停浮动效果 */
+    transform: translateY(-2px);  /* 悬停轻微浮动 */
 }
 
-/* 悬停菜单阴影 */
-.sidebar-menu:hover {
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+/* ==============================
+   顶部导航栏
+   ============================== */
+.navbar.user-info-navbar {
+    background-color: rgba(176, 196, 222, 0.95) !important; /* 浅土蓝半透明，可调整 */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
 /* ==============================
@@ -42,19 +52,19 @@ body {
    ============================== */
 .xe-card {
     background-color: rgba(255, 255, 255, 0.85) !important; /* 半透明白色 */
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25) !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important; /* 阴影调小 */
     border-radius: 12px;
     transition: transform 0.3 ease, box-shadow 0.3 ease, background-color 0.3 ease;
 }
 
 /* 悬停效果 */
 .xe-card:hover {
-    transform: translateY(-8px) scale(1.02);
-    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.35) !important;
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25) !important; /* 悬停阴影稍大 */
     background-color: rgba(255, 255, 255, 0.95) !important;
 }
 
-/* 卡片内文字优化 */
+/* 卡片文字优化 */
 .xe-card .xe-comment .xe-user-name strong {
     color: #222222;
 }
@@ -62,9 +72,7 @@ body {
     color: #555555;
 }
 
-/* ==============================
-   卡片间距和布局优化
-   ============================== */
+/* 卡片间距 */
 .sites-list .xe-card {
     margin-bottom: 20px;
 }
