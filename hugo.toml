@@ -1,41 +1,33 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "zh-CN"
-title = "LTBY网址导航"
+title = "LTBY导航"
 theme = "hugo-webstack"
 
-# true:允许大写字母url路径，false:将url路径转换成小写
+# 保留大写路径
 disablePathToLower = true
 
-# 页脚：作者名字
 copyright = "ltby"
 
-# 网站信息，不显示，仅供搜索引擎参考
 [params]
   keywords = "网址导航,webstack,hugo"
   description = "Webstack Hugo版主题,网址导航"
- 
-# 是否开启搜索栏
+
 [params.search]
   enable = true
 
-# 默认模式，true暗色，false亮色
 [params.darkmode]
   enable = false
 
-# 主页右上角“在线编辑”按钮
 [params.edit]
   enable = true
   url = "https://github.com/ltby123/ltby/blob/main/data/webstack.yml"
-  
-# 桌面端右上角 GitHub 按钮
+
 [params.github]
   enable = true
   url = "https://github.com/oulh/nav"
-  
-[permalinks]  
+
+[permalinks]
   404 = "/404.html"
 
-# 本地搜索是否开启拼音匹配
 [params.pinyin]
   enable = true
-
