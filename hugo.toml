@@ -11,6 +11,8 @@ copyright = "ltby"
 [params]
   keywords = "网址导航,webstack,hugo"
   description = "Webstack Hugo版主题,网址导航"
+  
+  customCSS = ["css/custom.css"]
 
 [params.search]
   enable = true
