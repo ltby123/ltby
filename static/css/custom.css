@@ -1,41 +1,70 @@
-/* ===== 网站背景 ===== */
+/* ==============================
+   页面背景
+   ============================== */
 body {
-    background-image: url('/images/bg.jpg'); /* 请把你的背景图上传到 /static/images/bg.jpg */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url('/images/bg1.jpg'); /* 替换为你的高清背景图 */
+    background-size: cover;        /* 铺满屏幕 */
+    background-position: center;   /* 居中显示 */
+    background-repeat: no-repeat;  /* 不重复 */
+    background-attachment: fixed;  /* 页面滚动时背景固定 */
 }
 
-/* ===== 导航卡片立体虚影 ===== */
-.webstack-card {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+/* ==============================
+   左侧菜单栏 - 浅土蓝色底纹 + 悬停浮动
+   ============================== */
+.sidebar-menu {
+    background-color: #b0c4de !important;  /* 浅土蓝色底色 */
+    background-image: linear-gradient(135deg, #cfe0f4 25%, #b0c4de 25%, #b0c4de 50%, #cfe0f4 50%, #cfe0f4 75%, #b0c4de 75%, #b0c4de 100%);
+    background-size: 40px 40px;  /* 底纹大小，可调整 */
+    transition: transform 0.3 ease, box-shadow 0.3 ease;
+}
+
+/* 左侧菜单文字颜色 */
+.sidebar-menu .main-menu li a {
+    color: #333333 !important;
+    font-weight: 500;
+    transition: transform 0.2 ease, color 0.2 ease;
+}
+
+.sidebar-menu .main-menu li a:hover {
+    color: #ffcc00 !important; /* 悬停高亮 */
+    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    transform: translateY(-3px); /* 悬停浮动效果 */
+}
+
+/* 悬停菜单阴影 */
+.sidebar-menu:hover {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+/* ==============================
+   卡片半透明 + 阴影 + 微动画
+   ============================== */
+.xe-card {
+    background-color: rgba(255, 255, 255, 0.85) !important; /* 半透明白色 */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25) !important;
     border-radius: 12px;
-    transition: transform 0.2, box-shadow 0.2;
+    transition: transform 0.3 ease, box-shadow 0.3 ease, background-color 0.3 ease;
 }
 
-.webstack-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+/* 悬停效果 */
+.xe-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.35) !important;
+    background-color: rgba(255, 255, 255, 0.95) !important;
 }
 
-/* ===== 左侧菜单颜色 ===== */
-.sidebar {
-    background-color: #afb4db;  /* 左侧菜单背景色，可修改 */
-    color: #ffffff;             /* 菜单文字颜色 */
+/* 卡片内文字优化 */
+.xe-card .xe-comment .xe-user-name strong {
+    color: #222222;
+}
+.xe-card .xe-comment p {
+    color: #555555;
 }
 
-.sidebar a {
-    color: #ffffff;
-    transition: color 0.2;
-}
-
-.sidebar a:hover {
-    color: #ffcc00;  /* 鼠标悬停高亮色，可修改 */
-}
-
-/* ===== 手机屏幕菜单优化 ===== */
-@media screen and (max-width: 768px) {
-    .sidebar {
-        background-color: #1e1e2f;  /* 小屏幕菜单保持一致颜色 */
-    }
+/* ==============================
+   卡片间距和布局优化
+   ============================== */
+.sites-list .xe-card {
+    margin-bottom: 20px;
 }
